@@ -14,9 +14,9 @@ Tool ini dapat dibangun dengan library populer seperti:
 - `rembg` — library Python untuk segmentasi dan hapus background 
 
 ## 📦 Contoh Struktur
-├── input.jpg # Gambar sumber
-├── output.png # Gambar hasil background dihapus
-├── a # (Opsional) script Python
+├── input.jpg # Gambar sumber<br>
+├── output.png # Gambar hasil background dihapus<br>
+├── a # (Opsional) script Python<br>
 
 ## Cara pakai
 <img src="https://raw.githubusercontent.com/Mister-RdanM19/remove_background/refs/heads/main/2.png">
