@@ -19,7 +19,15 @@ Tool ini dapat dibangun dengan library populer seperti:
 ├── a # (Opsional) script Python
 
 ## Cara pakai
+<img src="https://raw.githubusercontent.com/Mister-RdanM19/remove_background/refs/heads/main/2.png">
 
+<img src="https://raw.githubusercontent.com/Mister-RdanM19/remove_background/refs/heads/main/1.png">
+
+## output 
+
+<img src="https://raw.githubusercontent.com/Mister-RdanM19/remove_background/refs/heads/main/input.jpg">
+
+<img src="https://raw.githubusercontent.com/Mister-RdanM19/remove_background/refs/heads/main/output.png">
 python a
 
 <br> ubah script di dalam sesuai kan dengan gambar kamu <br>
