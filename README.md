@@ -2,7 +2,7 @@
 
 Simple tool to remove the background from images using Python and AI-powered libraries.
 
-Repository ini bertujuan menyediakan skrip / workflow untuk menghapus background dari gambar (mis. `.jpg`, `.png`) dan menghasilkan output transparan (`.png`). :contentReference[oaicite:1]{index=1}
+Repository ini bertujuan menyediakan skrip / workflow untuk menghapus background dari gambar (mis. `.jpg`, `.png`) dan menghasilkan output transparan (`.png`).
 
 ## 📌 Fitur
 ✅ Hapus background otomatis dari foto atau gambar  
