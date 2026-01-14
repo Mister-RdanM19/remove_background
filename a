@@ -1,0 +1,11 @@
+from rembg import remove
+from PIL import Image
+
+input_path = "input.jpg"     # gambar asli
+output_path = "output.png"   # hasil tanpa background (PNG transparan)
+
+with Image.open(input_path) as img:
+    result = remove(img)
+    result.save(output_path)
+
+print("Background berhasil dihapus!")
